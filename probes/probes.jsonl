@@ -1,0 +1,16 @@
+{"input": 1, "expect": "I", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 2, "expect": "II", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 4, "expect": "IV", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 6, "expect": "VI", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 9, "expect": "IX", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 27, "expect": "XXVII", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 49, "expect": "XLIX", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 59, "expect": "LIX", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 93, "expect": "XCIII", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 163, "expect": "CLXIII", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 166, "expect": "CLXVI", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 575, "expect": "DLXXV", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 911, "expect": "CMXI", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 1024, "expect": "MXXIV", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 3000, "expect": "MMM", "raised": false, "task": "roman-numerals", "lang": "php"}
+{"input": 3888, "expect": "MMMDCCCLXXXVIII", "raised": false, "task": "roman-numerals", "lang": "php"}
